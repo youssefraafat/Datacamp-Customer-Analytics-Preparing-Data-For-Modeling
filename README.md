@@ -1,7 +1,5 @@
 # Optimizing Customer Data for Faster Predictions
 
-![Two data scientists working on a dashboard.](hr-image-small.png)
-
 ## Project Overview
 This project focuses on cleaning and optimizing a large customer dataset from a fictional online education platform, Radar DataCamp. The dataset, `customer_data.csv`, contains anonymized student details, including their course completion status. The objective is to streamline data storage for quicker model predictions.
 
