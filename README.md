@@ -17,7 +17,7 @@ This project focuses on cleaning and optimizing a large customer dataset from a 
 - Pandas
 
 ## Dataset Information
-- `customer_data.csv` includes columns like `student_id`, `city`, `gender`, `course_completion`, `education_level`, `experience`, and `company_size`.
+- `customer_train.csv` contains columns such as `student_id`, `city`, `gender`, `relevant_experience`, `education_level`, `experience`, `company_size`, and more.
 
 ## Getting Started
 1. Clone this repository.
